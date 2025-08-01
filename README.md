@@ -95,8 +95,10 @@ Clone the repository and install dependencies in both client and server director
 
 Start the backend server with node index.js from the server folder.
 
-OUTPUT:-
-
 Start the frontend with npm start from the client folder.
 
 Open your browser and navigate to http://localhost:3000.
+
+OUTPUT:-
+
+![Image](https://github.com/user-attachments/assets/748e5d86-2e87-47e6-8f05-283fd944292d)
